@@ -1,4 +1,4 @@
-﻿
+
 1. install Eclipse EE, Tomcat 8, SQL Server 2014
 
 2. create database by runing the init.sql in SQL Server 2014.
@@ -27,7 +27,8 @@
 Group member: Helong Ma hxm151530,  Yupeng Gao yxg140730, Qingchuan Zhao qxz150730, Chaoshun Zuo cxz153430
 
 
-
+shhhhhh
+123
 
 
 
